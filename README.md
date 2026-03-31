@@ -20,3 +20,6 @@ https://link.springer.com/article/10.1186/s40537-022-00636-w
 
 Unsupervised Social Event Detection via Hybrid Graph Contrastive Learning and Reinforced Incremental Clustering <br>
 https://www.sciencedirect.com/science/article/pii/S0950705123009759
+
+An Incremental Clustering Baseline for Event Detection on Twitter
+https://arxiv.org/abs/2412.15257
