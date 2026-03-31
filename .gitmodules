@@ -1,0 +1,6 @@
+[submodule "twitter-incremental-clustering"]
+	path = twitter-incremental-clustering
+	url = https://github.com/medialab/twitter-incremental-clustering.git
+[submodule "Deep-Probability-Aggregation-Clustering"]
+	path = Deep-Probability-Aggregation-Clustering
+	url = https://github.com/aomandechenai/Deep-Probability-Aggregation-Clustering.git
