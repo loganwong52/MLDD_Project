@@ -1,0 +1,5 @@
+data/
+*.npy
+*.npz
+checkpoints/
+.ipynb_checkpoints/
